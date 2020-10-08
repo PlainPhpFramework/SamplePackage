@@ -1,8 +1,5 @@
 {
     "name": "plainphp/sample-package",
     "type": "plainphp-package",
-    "keywords": ["plainphp", "framework", "package"],
-    "require": {
-        "plainphp/package-installer": "dev-main"
-    }
+    "keywords": ["plainphp", "framework", "package"]
 }

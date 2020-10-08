@@ -1,0 +1,5 @@
+{
+    "name": "PlainPhpFramework/SamplePackage",
+    "type": "plainphp-package",
+    "keywords": ["plainphp", "framework", "package"]
+}

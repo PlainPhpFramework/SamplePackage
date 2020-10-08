@@ -2,7 +2,7 @@
     "name": "plainphp/sample-package",
     "type": "plainphp-package",
     "require": {
-        "composer/installers": "~1.0"
+        "plainphp/package-installer": "dev-main"
     },
     "keywords": ["plainphp", "framework", "package"]
 }
